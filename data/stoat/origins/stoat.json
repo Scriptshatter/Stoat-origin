@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "stoat:highstamina",
+        "stoat:speed",
+        "stoat:swimmer",
+        "origins-classes:no_sprint_exhaustion",
+        "stoat:enhancedvision",
+        "stoat:rawpref"
+    ],
+      "icon": "minecraft:rabbit",
+      "order": 2,
+      "impact": 3,
+      "name": "Stoat",
+      "description": "placeholder"
+}
